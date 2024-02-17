@@ -5,5 +5,6 @@ public class hello {
         System.out.println("hello third");
         System.out.println("master");
         System.out.println("hot fix");
+        System.out.println("push test");
     }
 }
